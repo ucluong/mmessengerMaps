@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Messenger Maps</string>
+    <string name="todo">TODO</string>
+    <string name="sign_up">Đăng Kí</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="login">Login</string>
+    <string name="btn_login">Login</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_confirm_password">Enter Confirm Password</string>
+    <string name="signup">Đăng Kí</string>
+</resources>

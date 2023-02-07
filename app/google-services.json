@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "400230162746",
+    "project_id": "messengermaps-a84a3",
+    "storage_bucket": "messengermaps-a84a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400230162746:android:9467411ee3b55fd5ba3003",
+        "android_client_info": {
+          "package_name": "com.example.messengermaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400230162746-iaf83c9h5bco3i5gqtk9517s35d7bd2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpMFczy2Du3KCj2xJOZq_4BfTpu9zwwp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400230162746-iaf83c9h5bco3i5gqtk9517s35d7bd2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
